@@ -1,0 +1,23 @@
+---
+title: "Tutoriais"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+::: {.panel-tabset}
+
+## R
+
+```{r}
+1 + 1
+```
+
+## Python
+
+```{python}
+1 + 1
+```
+
+:::

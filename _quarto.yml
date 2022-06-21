@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quartoWebsite"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - tutoriais.qmd
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+
+
+
